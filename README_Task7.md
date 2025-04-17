@@ -58,7 +58,3 @@ A mock dataset of 50 sales records was created with the following fields:
 
 ---
 
-## ✨ Optional Enhancements
-- Add line charts for time-based trends (see Task 8).
-- Export visualizations as images (`.png`).
-- Add interactive filtering (using Streamlit or Plotly in future tasks).
